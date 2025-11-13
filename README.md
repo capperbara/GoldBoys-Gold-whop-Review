@@ -92,7 +92,7 @@ Once you subscribe, you'll receive an invite to the private Discord server where
   
 
 1.  [**Visit the Whop marketplace**](https://whop.link.tmto.site/goldboys-gold/) and find GoldBoys Gold
-2.  **Choose your subscription plan** (monthly or lifetime)
+2.  **Choose your subscription plan** (monthly or yearly)
 3.  **Complete payment** through Whop's secure checkout
 4.  **Receive Discord invite** via email and inside the app
 5.  **Join the server** and complete the verification process
